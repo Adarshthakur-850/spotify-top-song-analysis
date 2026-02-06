@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Spotify Top Songs Analysis and Popularity Prediction
 
 An end-to-end data science project extracting insights from Spotify's top songs dataset and predicting track popularity.
@@ -54,3 +52,4 @@ python main.py
 =======
 # spotify-top-song-analysis
 >>>>>>> b45f35bd1a66a30b5e6ab6bcabc8f9d1056c0c0c
+
