@@ -148,9 +148,3 @@ GitHub: [https://github.com/Adarshthakur-850](https://github.com/Adarshthakur-85
 ## 📜 License
 
 This project is for educational and research purposes.
-
-
-file coding 
-reso fold the file 
-
-
