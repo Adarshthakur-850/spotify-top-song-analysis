@@ -46,10 +46,5 @@ python main.py
 ## Output
 - **Plots**: Check `plots/` folder.
 - **Model**: Best performing model saved in `models/best_model.pkl`.
-=======
-# spotify-top-song-analysis
->>>>>>> b45f35bd1a66a30b5e6ab6bcabc8f9d1056c0c0c
-=======
-# spotify-top-song-analysis
->>>>>>> b45f35bd1a66a30b5e6ab6bcabc8f9d1056c0c0c
+  
 
